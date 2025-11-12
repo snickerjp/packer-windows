@@ -147,7 +147,6 @@
     "iso_url": "https://software-static.download.prss.microsoft.com/sg/download/888969d5-f34g-4e03-ac9d-1f9786c66749/SERVER_EVAL_x64FRE_en-us.iso",
     "manually_download_iso_from": "https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022",
     "restart_timeout": "5m",
-    "vhv_enable": "false",
     "winrm_timeout": "6h",
     "proxmox_url": "https://proxmox.example.com:8006/api2/json",
     "proxmox_username": "root@pam",
